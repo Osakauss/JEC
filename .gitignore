@@ -1,0 +1,21 @@
+# autotools files
+autom4te.cache
+aclocal.m4
+*.in
+Makefile
+config.h.in~
+
+# build files
+build/
+
+# utilities
+ar-lib
+compile
+depcomp
+install-sh
+missing
+test-driver
+configure
+
+# misc
+.vscode
